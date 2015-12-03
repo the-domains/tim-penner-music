@@ -1,7 +1,7 @@
 name: Tim Penner Music
 favicon: null
-layout_spectrum: 0.7990987079683691
-typography_spectrum: 0.909296858124435
+layout_spectrum: 0.87843
+typography_spectrum: 0.53504
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.6149970598053187
-  lightness: 0.9700780969578773
-  saturation: 0.3978892802260816
-  rhythmicContrast: 0.8812704889569432
+    - '#d2cfd0'
+    - '#0f0b0a'
+    - '#ff99bd'
+    - '#ff0059'
+    - '#a34d4b'
+  brandStrength: 0.625
+  lightness: 0.0625
+  saturation: 0.625
+  rhythmicContrast: 1
 purpose: []
