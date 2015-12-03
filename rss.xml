@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tim Penner Music]]></title>
+        <description><![CDATA[Tim Penner Music]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 03 Dec 2015 21:11:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Originals and Remixes by TimPenner]]></title>
+            <description><![CDATA[<article><h1>Originals and Remixes by TimPenner</h1><p>Canadian born Tim Penner's experience working in the electronic music industry has afforded him a unique perspective on the production process. Driven by a passion to derive innovative sounds from the</p></article>]]></description>
+            <link>https://soundcloud.com/timpenner/sets/originals-and-remixes</link>
+            <guid isPermaLink="false">31953570-8d38-4b89-8c2e-28471edefa5c</guid>
+            <pubDate>Thu, 03 Dec 2015 21:10:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
