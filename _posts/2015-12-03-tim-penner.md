@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://pro.beatport.com/artist/tim-penner/216326'
+hasPage: true
+inNav: true
 inLanguage: en
 starred: true
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - silinder
   - 2xlc
 description: Check out Tim Penner on Beatport.
-datePublished: '2015-12-03T21:29:11.499Z'
-dateModified: '2015-12-03T21:27:48.313Z'
+datePublished: '2015-12-03T21:35:50.328Z'
+dateModified: '2015-12-03T21:34:29.881Z'
 author: []
 related: []
 app_links: []
@@ -31,6 +30,7 @@ publisher:
   domain: pro.beatport.com
   url: 'https://pro.beatport.com'
   favicon: 'https://pro.beatport.com/static/b6d6dd1822d07acf1651df7af80ced311eebbbf5/images/favicon-16x16.png'
+url: tim-penner/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
