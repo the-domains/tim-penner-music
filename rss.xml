@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Tim Penner Music]]></title>
         <description><![CDATA[Tim Penner Music]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tim-penner-music/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Dec 2015 21:11:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 03 Dec 2015 21:11:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tim-penner-music/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Slideways Sessions by TimPenner]]></title>
+            <description><![CDATA[<article><h1>Slideways Sessions by TimPenner</h1><p>Thanks for tuning into Slideways Sessions with Tim Penner on Digitally Imported. If you like what you hear, be sure to hit the "Follow" button! You can also hit me up on Twitter at @TimPennerMusic to let me know what you think or follow me on Facebook for all the latest updates.</p></article>]]></description>
+            <link>https://soundcloud.com/timpenner/sets/slideways-sessions</link>
+            <guid isPermaLink="false">e995c62a-bee7-41af-9e0b-48c507544699</guid>
+            <pubDate>Thu, 03 Dec 2015 21:11:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Originals and Remixes by TimPenner]]></title>
             <description><![CDATA[<article><h1>Originals and Remixes by TimPenner</h1><p>Canadian born Tim Penner's experience working in the electronic music industry has afforded him a unique perspective on the production process. Driven by a passion to derive innovative sounds from the</p></article>]]></description>
